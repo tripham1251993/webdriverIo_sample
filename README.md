@@ -1,4 +1,3 @@
-# perx automated testing
 # Usage
 ## Installation
 - Install nodejs version: 16.15.1+
